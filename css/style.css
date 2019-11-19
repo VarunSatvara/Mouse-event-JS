@@ -1,0 +1,7 @@
+.circle {
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    border-radius: 15px;
+    background-color: rgba(red, green, blue, alpha);
+}
